@@ -30,8 +30,6 @@ Fetching Data: The API will be integrated into the webpage using JavaScript's fe
 
 Dynamic Data Loading: Data fetched from the API will be dynamically loaded onto the webpage, ensuring that users always see up-to-date information.
 
-
-
 2. Responsive Design:
 
 Frameworks and Techniques: Using CSS media queries or frameworks like Bootstrap or Tailwind CSS to ensure the webpage adapts seamlessly to various screen sizes.
@@ -114,3 +112,9 @@ Scalability: The modular approach to integrating APIs allows easy expansion of f
 
 
 By completing this task, you'll gain practical experience in API integration, responsive design, and JavaScript programming, all of which are essential skills for modern web developers. The deliverable—a fully functional, responsive webpage—will be a testament to your ability to create dynamic and engaging web applications.
+
+
+**OUTPUT OF THE TASK**
+
+![output](https://github.com/user-attachments/assets/85f12a7b-7764-44f7-a078-fcaa09ba455a)
+
